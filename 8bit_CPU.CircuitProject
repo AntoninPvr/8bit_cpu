@@ -2,7 +2,6 @@
 <lc:CircuitProject xmlns:lc="http://LogicCircuit.net/2.0.0.11/CircuitProject.xsd">
 	<lc:Project>
 		<lc:ProjectId>cbcec4b8-6ba0-4c17-9502-2eec930675a8</lc:ProjectId>
-		<lc:Zoom>0.6000000000000001</lc:Zoom>
 		<lc:LogicalCircuitId>11080f13-df00-43da-b4f6-5d23165c162e</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
@@ -2463,7 +2462,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</lc:Data>
 		<lc:CircuitSymbolId>d327cada-f93d-4434-a495-6941a6b88e44</lc:CircuitSymbolId>
 		<lc:CircuitId>2760cdff-3f50-4d6e-bf7e-e6757e38b7c3</lc:CircuitId>
 		<lc:LogicalCircuitId>4027326e-5bd6-420a-b7bb-44ba0260b8cd</lc:LogicalCircuitId>
-		<lc:X>10</lc:X>
+		<lc:X>17</lc:X>
 		<lc:Y>29</lc:Y>
 	</lc:CircuitSymbol>
 	<lc:CircuitSymbol>
@@ -9896,7 +9895,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</lc:Data>
 		<lc:LogicalCircuitId>4027326e-5bd6-420a-b7bb-44ba0260b8cd</lc:LogicalCircuitId>
 		<lc:X1>25</lc:X1>
 		<lc:Y1>30</lc:Y1>
-		<lc:X2>12</lc:X2>
+		<lc:X2>19</lc:X2>
 		<lc:Y2>30</lc:Y2>
 	</lc:Wire>
 	<lc:Wire>
