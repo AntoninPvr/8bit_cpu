@@ -122,6 +122,12 @@ This is a 8 bit adder with carry in and carry out. No more, no less.
 
 ![AU](https://github.com/AntoninPvr/8bit_cpu/blob/main/images/AU.png?raw=true)
 
+### Register
+
+The first register 0x00 is the output register
+
+![Register](https://github.com/AntoninPvr/8bit_cpu/blob/main/images/Register.png?raw=true)
+
 ### RAM
 
 Ram with 8 bit address register on the left.
