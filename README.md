@@ -2,7 +2,7 @@
 
 This is a von Neumann 8bit CPU and has a tiny instruction set.
 
-## Specification
+## Specifications
 
 * 7 not powerfull instructions: `NOT`, `OR`, `AND`, `ADD`, `JMP`, `SEL`, `CC`
 * 3 internal 8bit registers
@@ -24,7 +24,7 @@ This is a von Neumann 8bit CPU and has a tiny instruction set.
 | `SEL` | `A` | Expose address A of RAM | 1 |
 | `CC` | `A` | Clear Carry flag | 1 |
 
-All instructions are 1 byte long and the operand is a 1 byte. How compute "A OR B"?
+All instructions are 1 byte long and the operand is 1 byte. How compute "A OR B"?
 
 By using the accumulator modifier that allow to use the accumulator as operand. Let's define "new" instructions:
 |Instruction| Operand | Cycles |
